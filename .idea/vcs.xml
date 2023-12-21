@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CoreComponents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DynamicUI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ExerciseOne" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RNForms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RNLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RNList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StylingRN" vcs="Git" />
+  </component>
+</project>
